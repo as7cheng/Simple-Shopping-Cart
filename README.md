@@ -1,4 +1,4 @@
-# UW-Madison-CS300-Program1
+# Simple Shopping Cart
 
 Introduction
 
